@@ -1,0 +1,15 @@
+[
+    {
+        "created": "20230214055114547",
+        "creator": "Jeff Jiang",
+        "modified": "20230214055114547",
+        "modifier": "Jeff Jiang",
+        "title": "$:/plugins/tiddlywiki/dynannotate/demo-annotation",
+        "type": "text/vnd.tiddlywiki",
+        "annotate-tiddler": "$:/ControlPanel",
+        "annotate-text": "",
+        "annotate-prefix": "\n\n\n\n\n\n\n\n\n信息\n\n\n\n\n\n\n外观\n\n\n\n\n\n\n设置\n\n\n\n\n\n\n保存\n\n\n",
+        "annotate-suffix": "\n\n\n\n插件\n\n\n\n\n\n\n Plugin Info\n\n\n\n\n\n\n快捷键\n\n\n\n\n\n\n有关此 Tidd",
+        "annotate-colour": ""
+    }
+]
